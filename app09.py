@@ -14,12 +14,13 @@
 # else:
 #   print("You are hungry")
 
+#print(~22)
+#int(1001)
+# a = 20
+# b = 5
+# print("a | b =", a | b)
 
-
-
-
-
-
+# print(22 << 1)
 
 
 
@@ -29,5 +30,6 @@
 
 # Logic and Bit Operation 
 # Operators
-#
-#
+# bitwise Operators & Conjunction | Disjuction ~ Negation ^ Exclusive
+# Logical operators And Not and Or return boolean values based on the passed values
+# Bitwise operators & | and ~ allow us to manipulate single bits of data, anad return 0 or 1 based on the value of the bits that are used.
