@@ -96,9 +96,39 @@
 # print(not("James" == "Maria"))
 
 # Assignment Operators
+# brand = "Amigoscode"
+# brand = "Nike"
+# print(brand) # it will print the lastest value
+
+# number = 0
+# number = number + 1 # this is equal to the same below
+# # number += 1
+# print(number) # it will print the
+
+# NB ** is power to........
 
 
 
+# If Statement 
+# number = 0 
+# if number > 0:
+#     print(f"number{number} is positive")
+# elif number == 0:                           # you can have as many elif as you want. only one if and else 
+#     # print(f"number{number} is Zero")
+#     print(number)
+# else:
+#     print(f"number{number} is negative")
+
+
+
+# Ternary if statements
+# number = 1
+# message = "positive" if number > 0 else "0 or negative"
+# print(message)
+
+
+
+# List
 
 
 
